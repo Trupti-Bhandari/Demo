@@ -1,0 +1,15 @@
+git init
+git add remote origin https://github.com/Trupti-Bhandari/Demo.git
+git add origin https://github.com/Trupti-Bhandari/Demo.git
+git remote add origin https://github.com/Trupti-Bhandari/Demo.git
+git diff
+grep git
+history|grep git
+history|grep git > git.txt
+doskey /h | grep "git"
+doskey /h | grep git
+doskey /h | grep "git " > gitCommands.txt
+doskey /h | grep git > gitCommands.txt
+doskey /h | findstr "git" > git.txt
+doskey /h | grep "git " > gitCommands.txt
+doskey /h | findstr "git" > git.txt
